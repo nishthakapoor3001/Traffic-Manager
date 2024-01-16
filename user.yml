@@ -1,0 +1,18 @@
+---
+# Personal information
+# Enter information for both team members
+# Leave the second entry as is if there is only one person
+# on your team
+-
+  first: Maninder
+  last: Singh
+  watiam: m27singh
+  student: 21029657
+  email: m27singh@uwaterloo.ca
+-
+  first: Nishtha
+  last: Kapoor
+  watiam: n2kapoor
+  student: 21050720
+  email: n2kapoor@uwaterloo.ca
+...
