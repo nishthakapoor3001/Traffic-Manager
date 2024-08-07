@@ -24,7 +24,7 @@ first install minisat in your projects
 Minisat : https://git.uwaterloo.ca/ece650-1231/minisat
 
 run the following commands in the projects directory
-1. mkdir build && cd build && cmmake ../ 
+1. mkdir build && cd build && cmake ../ 
 2. make
 
 run the executable file created by name prjece650
